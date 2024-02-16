@@ -113,5 +113,4 @@ how we accomplished it can be found under the "D Collect Process Scripts" direct
         <img src = "./Result Images/daily.png"></img>
         <img src = "./Result Images/hourly.png"></img>
     </li>
-    <li>
 </ol>
