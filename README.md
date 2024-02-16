@@ -126,6 +126,6 @@ ex:https://fred.stlouisfed.org/series/DTCTLVEUANQ</p>
         <img src = "./Result Images/roadtype.png"></img>
         <p>Majority of accidents happen in state highways.This could be for many factors that include aggressive driving over speed limits, higher traffic volumes on these roads since everyone uses it to connect between cities, suburbs, and states.</p>
         <img src = "./Result Images/weatherconditions.png"></img>
-        <p>All weather condtions were clear during the time of the crash. Drivers may be more cautious during other weather conditions. Summmer season is also the time when there are more clear skies and the highest traffic volume.<p>
+        <p>Most weather condtions were clear during the time of the crash. Drivers may be more cautious during other weather conditions. Summmer season is also the time when there are more clear skies and the highest traffic volume.<p>
     </li>
 </ol>
