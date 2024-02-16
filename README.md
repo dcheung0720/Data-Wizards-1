@@ -129,3 +129,23 @@ ex:https://fred.stlouisfed.org/series/DTCTLVEUANQ</p>
         <p>Most weather condtions were clear during the time of the crash. Drivers may be more cautious during other weather conditions. Summmer season is also the time when there are more clear skies and the highest traffic volume.<p>
     </li>
 </ol>
+<h3>f. Findings 7: DUI vs. non-DUI Fatalities </h3>
+<ol>
+    <li>
+        <p>The pie chart below shows that: of all the crash fatalities between 2018 - 2021, DUI fatalities are in larger proportion to non-DUI fatalities.</p>
+        <img src = "./Result Images/DUIvsnonDUI.png"></img>
+    </li>
+    <li>
+        <p> The result can be attributed to several factors such as increased risk taking behavior which involves speeding, getting distracted or disregarding traffic signals. Accidents involving DUI tend to be more severe, thus leading to higher fatalities.</p>
+    </li>
+</ol>
+<h3>g. Findings 8: DUI vs. non-DUI Fatalities </h3>
+<ol>
+    <li>
+        <p> Bar graph below shows top 3 car brands with highest fatality numbers.</p>
+        <img src = "./Result Images/carbrands.png"></img>
+    </li>
+    <li>
+        <p> Top 3 car brands with the highest fatalities are Chevrolet, Ford and Toyota. Many of these car brands have advanced safety feautures, however there can be difference across different model years. These brands are generally popular among young drivers and those with risky driving behavior which contribute to higher accident rates. </p>
+    </li>
+</ol>
