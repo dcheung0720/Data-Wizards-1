@@ -104,3 +104,17 @@ how we accomplished it can be found under the "D Collect Process Scripts" direct
         <img src = "./Result Images/Logistic_Regression_Fatal_vs_BAC.png"></img>
     </li>
 </ol>
+<h3>a. Findings 5: Time correlation </h3>
+<ol>
+    <li>
+        <p>The graphs below visualize the amount of accidents based on yearly/monthly,daily, and hourly timeframes</p>
+        <img src = "./Result Images/yearly2.png"></img>
+        <img src = "./Result Images/monthly.png"></img>
+        <img src = "./Result Images/daily.png"></img>
+        <img src = "./Result Images/hourly.png"></img>
+    </li>
+    <li>
+        <p>This bar graph below shows that: of all the crash fatalities cases between 2018 - 2021, males has a higher fatality rates than females. This difference could be attributed by where are they are sitting</p>
+    </li>
+
+</ol>
