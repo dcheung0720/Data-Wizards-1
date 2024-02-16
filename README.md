@@ -109,9 +109,14 @@ how we accomplished it can be found under the "D Collect Process Scripts" direct
     <li>
         <p>The graphs below visualize the amount of accidents based on yearly,monthly,daily, and hourly timeframes.</p>
         <img src = "./Result Images/yearly2.png"></img>
+        <p>The graph indicates an increase in accidents following covid-19. This could be the result of several factors during that time frame: individuals having additional disposable income from stimulus checks or savings accrued by cutting down on commuting, parking, and other related expenses. Allowing for an increase in vehicle purchases that led to more probabilities in car accidents.
+ex:https://fred.stlouisfed.org/series/DTCTLVEUANQ</p>
         <img src = "./Result Images/monthly.png"></img>
+        <p>June -August months are seasonally the busiest for tourist/vacations that cause traffic volume to increase and may result to more probabilities of car accidents. October may be caused by a weather change or daylight savings change that may need to be investigated further as to why it is one of the top months of the year for car acciedents to occur. </p>
         <img src = "./Result Images/daily.png"></img>
+        <p>Weekends have the highest number of accidents of the week. Saturday being at the top. With majority of the population being off from work/school and traveling to destinations for fun during their days off it increases the amount of vehicles on the road and also potential traffic accidents due to volume.</p>
         <img src = "./Result Images/hourly.png"></img>
+        <p>Accidents occur more often between 5pm-9pm (Rush Hour)</p>
     </li>
 </ol>
 <h3>a. Findings 6: Road types and weather conditions </h3>
@@ -119,6 +124,8 @@ how we accomplished it can be found under the "D Collect Process Scripts" direct
     <li>
         <p>The graphs below visualize where accidents happen more often and what weather conditions .</p>
         <img src = "./Result Images/roadtype.png"></img>
+        <p>Majority of accidents happen in state highways.This could be for many factors that include aggressive driving over speed limits, higher traffic volumes on these roads since everyone uses it to connect between cities, suburbs, and states.</p>
         <img src = "./Result Images/weatherconditions.png"></img>
+        <p>All weather condtions were clear during the time of the crash. Drivers may be more cautious during other weather conditions. Summmer season is also the time when there are more clear skies and the highest traffic volume.<p>
     </li>
 </ol>
