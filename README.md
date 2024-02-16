@@ -114,3 +114,11 @@ how we accomplished it can be found under the "D Collect Process Scripts" direct
         <img src = "./Result Images/hourly.png"></img>
     </li>
 </ol>
+<h3>a. Findings 6: Road types and weather conditions </h3>
+<ol>
+    <li>
+        <p>The graphs below visualize where accidents happen more often and what weather conditions .</p>
+        <img src = "./Result Images/roadtype.png"></img>
+        <img src = "./Result Images/weatherconditions.png"></img>
+    </li>
+</ol>
