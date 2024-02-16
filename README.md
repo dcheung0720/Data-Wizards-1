@@ -104,7 +104,7 @@ how we accomplished it can be found under the "D Collect Process Scripts" direct
         <img src = "./Result Images/Logistic_Regression_Fatal_vs_BAC.png"></img>
     </li>
 </ol>
-<h3>a. Findings 5: Time correlation </h3>
+<h3>d. Findings 5: Time correlation </h3>
 <ol>
     <li>
         <p>The graphs below visualize the amount of accidents based on yearly,monthly,daily, and hourly timeframes.</p>
@@ -119,7 +119,7 @@ ex:https://fred.stlouisfed.org/series/DTCTLVEUANQ</p>
         <p>Accidents occur more often between 5pm-9pm (Rush Hour)</p>
     </li>
 </ol>
-<h3>a. Findings 6: Road types and weather conditions </h3>
+<h3>e. Findings 6: Road types and weather conditions </h3>
 <ol>
     <li>
         <p>The graphs below visualize where accidents happen more often and what weather conditions .</p>
